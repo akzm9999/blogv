@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: 아카이브
 permalink: /archive/
 weight: 5
 sitemap:
