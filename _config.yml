@@ -5,7 +5,7 @@ url                          : "http://akzm9999.github.io" # the base hostname &
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : p;
   description                  : >
                                this should contain a proper description
 
@@ -26,17 +26,17 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Hogen
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  mail                      : akzm9999@gmail.com
+  #twitter                   : twitter-user-name
+  github                    : akzm9999
+  #youtube                   : youtube-user-name
+  #stackoverflow             : stackoverflow-user-name
+  #disqus                    : dactl # your disqus site name
+  #google_analytics          : # 'UA-XXXXXXXX-X'
+  #photo                     : "uploads/me2.png"
+  #photo2x                   : "uploads/me.png"
 
 
 
