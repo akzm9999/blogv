@@ -12,14 +12,14 @@ blog:
   logo_path                  : "assets/img/dactl.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
-  hero_layout                : false #true # turn on hero layout for blog and posts
+  hero_layout                : true #true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts                   : true # show excerpts instead of full post content on blog page
   inline_footnotes           : true # enable/disable barefoot inline footnotes
   titles_only                : false # show post titles only on main blog page
 
 # Fonts
-  font                       : "Noto Sans KR", sans-serif #'"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+  font                       : ''"Noto Sans KR", sans-serif' #'"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
   load_google_fonts          : 'Noto+Sans+KR:400,700,900' #'Rubik:400,400italic,700,700italic'
 
 
