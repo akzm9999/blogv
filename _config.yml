@@ -5,9 +5,8 @@ url                          : "http://akzm9999.github.io" # the base hostname &
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : p;Nut
-  description                  : >
-                               this should contain a proper description
+  title                      : hNut
+  description                  : hit!
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
